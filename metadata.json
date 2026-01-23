@@ -1,0 +1,9 @@
+{
+  "name": "6-Cap, Wisp, Clyst (tentative titles)",
+  "description": "Software 3.0 - An R & D atmosphere, just as soon as Google fucking catches up to us...",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
